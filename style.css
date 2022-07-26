@@ -1,0 +1,14 @@
+.calc{
+    display:inline-block;
+   align-content: center;
+   background-color: palevioletred;
+   border: 10px solid black;
+    border-radius: 20px ;
+    
+}
+
+
+button{
+    height: 100px;
+    width: 100px;
+}
